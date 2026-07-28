@@ -21,7 +21,9 @@ El asistente responde exclusivamente utilizando la información contenida en los
 
 **Enlace al proyecto:**
 
-> 🔗 **Pegar aquí la URL del proyecto desplegado en OCI**
+> 🔗 https://goo.su/6Iqaq
+
+NOTA: Si el enlace marca algún error, o no funciona, favor de contactarme al correo andrescmontejo@gmail.com 😟
 
 Ejemplo:
 
